@@ -65,10 +65,12 @@ Active members have a churn rate of only 9.55%, compared to 16.38% for inactive 
 
 
 <img width="163" alt="Screenshot 2025-06-09 at 3 28 03 PM" src="https://github.com/user-attachments/assets/a351e36e-c3fd-45df-ba0a-776bae93eb60" />
+
 **This is the image showing the churned customers who are active**
 
 
 <img width="168" alt="Screenshot 2025-06-09 at 3 27 27 PM" src="https://github.com/user-attachments/assets/376c93fc-1bfe-4d9e-be15-d506cf92ac59" />
+
 **This is the image showing the churned customers who are inactive**
 
 ##Recommendations
