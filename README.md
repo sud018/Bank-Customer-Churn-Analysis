@@ -73,7 +73,7 @@ Active members have a churn rate of only 9.55%, compared to 16.38% for inactive 
 
 **This is the image showing the churned customers who are inactive**
 
-##Recommendations
+## Recommendations
 Based on the churn analysis, the following recommendations are suggested to improve customer retention:
 1. **Focus retention campaigns** on customers aged 40–50, who show the highest churn likelihood. Consider financial wellness programs, investment advisory services, or age-relevant loyalty benefits to address their specific needs and encourage retention.
 
