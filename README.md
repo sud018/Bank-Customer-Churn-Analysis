@@ -56,7 +56,7 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 
 <img width="167" alt="Screenshot 2025-06-08 at 10 04 44 PM" src="https://github.com/user-attachments/assets/248811b5-8200-48bf-b856-9776863cefbf" />
 
-**This is the Image showing the churn rate of the below 40 years of age group**
+**This is the Image showing the churn rate of the below 40 years of age group.**
 
 💸 **Salary Segments**
 - Churn rates across all income brackets are relatively stable at ~20%, but there is a slight uptick to 22% for those earning above $150k. This suggests that high earners are not necessarily more loyal, and premium service expectations may need to be reassessed.
@@ -80,7 +80,7 @@ Active members have a churn rate of only 9.55%, compared to 16.38% for inactive 
 
 <img width="168" alt="Screenshot 2025-06-09 at 3 27 27 PM" src="https://github.com/user-attachments/assets/376c93fc-1bfe-4d9e-be15-d506cf92ac59" />
 
-**This is the image showing the churned customers who are inactive**
+**This is the image showing the churned customers who are inactive.**
 
 ## Recommendations
 Based on the churn analysis, the following recommendations are suggested to improve customer retention:
