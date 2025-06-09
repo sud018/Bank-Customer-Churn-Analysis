@@ -41,11 +41,13 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 
 
 <img width="182" alt="Screenshot 2025-06-08 at 10 04 24 PM" src="https://github.com/user-attachments/assets/3548cb70-a4aa-4bdb-854e-1a7da11b75c2" />
+
 **This is the Image showing the churn rate of the above 40 years of age group**
 
 
 
 <img width="167" alt="Screenshot 2025-06-08 at 10 04 44 PM" src="https://github.com/user-attachments/assets/248811b5-8200-48bf-b856-9776863cefbf" />
+
 **This is the Image showing the churn rate of the below 40 years of age group**
 
 
