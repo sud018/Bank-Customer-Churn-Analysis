@@ -40,6 +40,8 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
   
 <img width="649" alt="Screenshot 2025-06-08 at 10 02 09 PM" src="https://github.com/user-attachments/assets/ff39c3cc-4b8b-4ea4-bc5e-08bec761c7f6" />
 
+** This is the image showing the churn rate of customers in Germany.**
+
 👤 **Age Distribution**
 - The Age Group above 40 years is most likely to churn, with a churn rate of almost 45%.
 - Whereas the age group below 40 years is showing loyalty with a nearly 13% churn rate.
@@ -48,7 +50,7 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 
 <img width="182" alt="Screenshot 2025-06-08 at 10 04 24 PM" src="https://github.com/user-attachments/assets/3548cb70-a4aa-4bdb-854e-1a7da11b75c2" />
 
-**This is the Image showing the churn rate of the above 40 years of age group**
+**This is the Image showing the churn rate of the above 40 years of age group.**
 
 
 
@@ -61,19 +63,19 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 
 <img width="165" alt="Screenshot 2025-06-08 at 10 16 10 PM" src="https://github.com/user-attachments/assets/d3001119-71a1-4783-9f5d-3f35cc50c8c3" />
 
-**This is the image showing the churned customers who are earning salary above 150k**
+**This is the image showing the churned customers who are earning a salary above 150k.**
 
 💳 Credit Score
-- Customers with lower credit scores (350–584) show a churn rate of 22%, slightly higher than those with higher scores.
-- The churn rate decreases to 18% for scores between 652–718, suggesting better financial habits correlate with retention.
+- Customers with lower credit scores (350–584) show a churn rate of around 14%, slightly higher than those with higher scores.
+- The churn rate decreases to 12% for scores between 652 and 718, suggesting better financial habits correlate with retention.
   
 🟢 IsActiveMember
-Active members have a churn rate of only 9.55%, compared to 16.38% for inactive members, reflects the importance of customer engagement in reducing churn.
+Active members have a churn rate of only 9.55%, compared to 16.38% for inactive members, which reflects the importance of customer engagement in reducing churn.
 
 
 <img width="163" alt="Screenshot 2025-06-09 at 3 28 03 PM" src="https://github.com/user-attachments/assets/a351e36e-c3fd-45df-ba0a-776bae93eb60" />
 
-**This is the image showing the churned customers who are active**
+**This is the image showing the churned customers who are active.**
 
 
 <img width="168" alt="Screenshot 2025-06-09 at 3 27 27 PM" src="https://github.com/user-attachments/assets/376c93fc-1bfe-4d9e-be15-d506cf92ac59" />
