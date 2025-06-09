@@ -1,5 +1,11 @@
 # Bank-Customer-Churn-Analysis
 
+## Table of Contents
+1. Background and overview.
+2. Executive summary.
+3. Insights deep dive.
+4. Recommendations.
+   
 ## Background and overview
 This project focuses on analyzing **Customer Churn Patterns** in the banking sector using a real-world-like dataset. This dataset is taken from Kaggle and contains banking customer information with attributes like:
 - **Customer demographics** (age, gender, geography)
