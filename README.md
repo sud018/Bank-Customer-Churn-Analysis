@@ -50,6 +50,15 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 
 **This is the Image showing the churn rate of the below 40 years of age group**
 
+💸 **Salary Segments**
+- Churn rates across all income brackets are relatively stable at ~20%, but there is a slight uptick to 22% for those earning above $150k. This suggests that high earners are not necessarily more loyal, and premium service expectations may need to be reassessed.
+
+<img width="165" alt="Screenshot 2025-06-08 at 10 16 10 PM" src="https://github.com/user-attachments/assets/d3001119-71a1-4783-9f5d-3f35cc50c8c3" />
+**This is the image showing the churned customers who are earning salary above 150k**
+
+💳 Credit Score
+- Customers with lower credit scores (350–584) show a churn rate of 22%, slightly higher than those with higher scores.
+- The churn rate decreases to 18% for scores between 652–718, suggesting better financial habits correlate with retention.
 
 
 
