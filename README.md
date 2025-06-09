@@ -60,6 +60,7 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 - Churn rates across all income brackets are relatively stable at ~20%, but there is a slight uptick to 22% for those earning above $150k. This suggests that high earners are not necessarily more loyal, and premium service expectations may need to be reassessed.
 
 <img width="165" alt="Screenshot 2025-06-08 at 10 16 10 PM" src="https://github.com/user-attachments/assets/d3001119-71a1-4783-9f5d-3f35cc50c8c3" />
+
 **This is the image showing the churned customers who are earning salary above 150k**
 
 💳 Credit Score
