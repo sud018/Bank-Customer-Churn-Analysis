@@ -59,8 +59,24 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
 💳 Credit Score
 - Customers with lower credit scores (350–584) show a churn rate of 22%, slightly higher than those with higher scores.
 - The churn rate decreases to 18% for scores between 652–718, suggesting better financial habits correlate with retention.
+  
+🟢 IsActiveMember
+Active members have a churn rate of only 9.55%, compared to 16.38% for inactive members, reflects the importance of customer engagement in reducing churn.
 
 
+<img width="163" alt="Screenshot 2025-06-09 at 3 28 03 PM" src="https://github.com/user-attachments/assets/a351e36e-c3fd-45df-ba0a-776bae93eb60" />
+**This is the image showing the churned customers who are active**
 
 
+<img width="168" alt="Screenshot 2025-06-09 at 3 27 27 PM" src="https://github.com/user-attachments/assets/376c93fc-1bfe-4d9e-be15-d506cf92ac59" />
+**This is the image showing the churned customers who are inactive**
 
+##Recommendations
+Based on the churn analysis, the following recommendations are suggested to improve customer retention:
+1. **Focus retention campaigns** on customers aged 40–50, who show the highest churn likelihood. Consider financial wellness programs, investment advisory services, or age-relevant loyalty benefits to address their specific needs and encourage retention.
+
+2. **Actively engage inactive members** through personalized reactivation offers, digital nudges, or rewards for using banking services. The analysis shows that inactive customers are twice as likely to churn compared to active members.
+
+3. **Evaluate customer satisfaction levels across geographies**, especially in Germany, which has a disproportionately high churn rate. Launch location-specific surveys and service audits to identify friction points and optimize regional service delivery.
+
+4. I**mprove transparency and communication** around balance thresholds and financial planning for high-income customers (e.g., those earning above $100,000), who are still exiting despite favorable credit and engagement scores. Consider adding a premium banking tier with concierge services.
