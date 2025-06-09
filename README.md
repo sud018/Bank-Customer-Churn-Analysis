@@ -40,7 +40,7 @@ The customer churn analysis for the Bank reveals several meaningful patterns tha
   
 <img width="649" alt="Screenshot 2025-06-08 at 10 02 09 PM" src="https://github.com/user-attachments/assets/ff39c3cc-4b8b-4ea4-bc5e-08bec761c7f6" />
 
-** This is the image showing the churn rate of customers in Germany.**
+**This is the image showing the churn rate of customers in Germany.**
 
 👤 **Age Distribution**
 - The Age Group above 40 years is most likely to churn, with a churn rate of almost 45%.
