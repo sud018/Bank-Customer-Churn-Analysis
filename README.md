@@ -20,6 +20,10 @@ The Objective of this analysis is to:
 
 An interactive Tableau Dashboard is created to facilitate stakeholders with clear, visual insights and allow interactive exploration.
 
+An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/venkata.sudheer.ayalasomayajula/viz/Book1_17492593107170/Dashboard1)
+
+The raw dataset used can be found [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
 ## Executive Summary
 This analysis revealed a significant **churn issue**, with approximately 20% of customers leaving the bank. The main factors affecting are Age, Geography, and IsActiveMember. According to the observation, the age group above 40 years is leaving the bank where the churn is especially elevated, and the problem is **regionally concentrated**, with a huge loss of customers in Germany. Another factor affecting is InactiveMembers, with inactivity nearly doubling the likelihood of churn. 
 
